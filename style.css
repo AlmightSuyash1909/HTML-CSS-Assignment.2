@@ -1,0 +1,15 @@
+body {
+    background-color: burlywood;
+}
+.h1{
+    font-size:50px;
+    color:blueviolet
+}
+.p1{
+    font-size:30px;
+    color:chartreuse;
+}
+.p2{
+    font-size:30px;
+    color:rgb(81, 110, 37);
+}
